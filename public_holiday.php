@@ -3,7 +3,7 @@
  * A SETUP OF A PUBLIC HOLIDAY
  *
  * @author      Katsumi Saito <katsumi@jo1upk.ymt.prug.or.jp>
- * @version     $Id: public_holiday.php,v 2.2 2019/04/28 15:41:00 upk Exp $
+ * @version     $Id: public_holiday.php,v 2.3 2019/05/01 11:48:00 upk Exp $
  * @license     http://opensource.org/licenses/gpl-license.php GNU Public License (GPL2)
  *
  * Function Name: public_holiday(Year,Month,Day)
@@ -280,7 +280,7 @@ class public_holiday_jp extends public_holiday
 		array( 9,17, 18731014, 18790704,'神嘗祭'),
 		array(10,10, 19660625, 19991231,'体育の日'),
 		array(10,17, 18790705, 19480719,'新嘗祭'),
-		array(10,22, 20181214, 20191231,'即位礼正殿の儀の行われる日'),	// 平成30年法律第99号
+		array(10,22, 20181214, 20191231,'即位礼正殿の儀'),		// 平成30年法律第99号
 		array(10,31, 19130716, 19270302,'天長節祝日'),
 		array(11, 3, 18731014, 19120902,'天長節'),
 		array(11, 3, 19270303, 19480719,'明治節'),
